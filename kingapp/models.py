@@ -22,8 +22,7 @@ class HeroInfo(models.Model):
 class SkinInfo(models.Model):
     sname = models.CharField('皮肤名', max_length=20, db_column='sname')
     scontent = models.CharField('简介', max_length=1000, db_column='scontent')
-    image = models.ImageField('图片')
+    image = models.ImageField('图片', upload_to = 'heroSkin')
     shero = models.ForeignKey(HeroInfo)
-
     def __str__(self):
-        self.sname
+        return self.sname

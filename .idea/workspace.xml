@@ -2,23 +2,74 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c43461f-d481-4042-b463-7add3bd0a575" name="默认的" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/admin.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/apps.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/migrations/0001_initial.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/migrations/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/models.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/templates/detail.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/templates/image.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/templates/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/urls.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/views.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/1_2_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/heroSkin/1_2_2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/heroSkin/1_2_2_2Og8vYL.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/media/heroSkin/1_2_2_oIF3LzV.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153238-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153238-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153238-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153238.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239-55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153239.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153240-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153240-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153240-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153240-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153240-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153240.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241-58.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153241.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242-57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153242.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-55.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-56.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243-57.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153243.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153244-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153244-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153244-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153244-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153244-54.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/71-160604153244.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14016-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14016-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14016.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14017-50.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14017-51.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14017-52.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14017-53.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/images/97-16110Q14017.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/kingapp/migrations/0002_auto_20171103_1531.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/db.sqlite3" afterPath="$PROJECT_DIR$/db.sqlite3" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allauthors/settings.py" afterPath="$PROJECT_DIR$/allauthors/settings.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/allauthors/urls.py" afterPath="$PROJECT_DIR$/allauthors/urls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kingapp/models.py" afterPath="$PROJECT_DIR$/kingapp/models.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -32,11 +83,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/allauthors/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-230">
-              <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+            <state relative-caret-position="210">
+              <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -62,16 +113,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="wsgi.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/allauthors/wsgi.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kingapp/urls.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -87,7 +128,7 @@
       <file leaf-file-name="views.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kingapp/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="74">
+            <state relative-caret-position="-30">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
@@ -128,11 +169,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kingapp/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="400">
+              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -161,8 +202,8 @@
         <option value="$PROJECT_DIR$/kingapp/templates/detail.html" />
         <option value="$PROJECT_DIR$/kingapp/views.py" />
         <option value="$PROJECT_DIR$/kingapp/urls.py" />
-        <option value="$PROJECT_DIR$/allauthors/settings.py" />
         <option value="$PROJECT_DIR$/kingapp/models.py" />
+        <option value="$PROJECT_DIR$/allauthors/settings.py" />
       </list>
     </option>
   </component>
@@ -206,13 +247,17 @@
             <path>
               <item name="allauthors" type="b2602c69:ProjectViewProjectNode" />
               <item name="allauthors" type="462c0819:PsiDirectoryNode" />
-              <item name="kingapp" type="462c0819:PsiDirectoryNode" />
+              <item name="allauthors" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="allauthors" type="b2602c69:ProjectViewProjectNode" />
               <item name="allauthors" type="462c0819:PsiDirectoryNode" />
               <item name="kingapp" type="462c0819:PsiDirectoryNode" />
-              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="allauthors" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allauthors" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -282,7 +327,14 @@
       <option name="project" value="LOCAL" />
       <updated>1509689234001</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="day01">
+      <created>1509693718604</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1509693718604</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -347,7 +399,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新建的一个项目" />
-    <option name="LAST_COMMIT_MESSAGE" value="新建的一个项目" />
+    <MESSAGE value="day01" />
+    <option name="LAST_COMMIT_MESSAGE" value="day01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -362,18 +415,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allauthors/urls.py">
+    <entry file="file://$PROJECT_DIR$/kingapp/templates/detail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/allauthors/wsgi.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
+        <state relative-caret-position="260">
+          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -388,32 +433,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kingapp/templates/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kingapp/templates/detail.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kingapp/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#35#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kingapp/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="260">
@@ -424,18 +443,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/allauthors/settings.py">
+    <entry file="file://$PROJECT_DIR$/allauthors/wsgi.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-230">
-          <caret line="33" column="27" lean-forward="false" selection-start-line="33" selection-start-column="27" selection-end-line="33" selection-end-column="27" />
+        <state relative-caret-position="180">
+          <caret line="11" column="49" lean-forward="false" selection-start-line="11" selection-start-column="49" selection-end-line="11" selection-end-column="49" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allauthors/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kingapp/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" column="20" lean-forward="false" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kingapp/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-30">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/kingapp/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="400">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/allauthors/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="129" column="0" lean-forward="true" selection-start-line="129" selection-start-column="0" selection-end-line="129" selection-end-column="0" />
           <folding />
         </state>
       </provider>
