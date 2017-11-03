@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>detail</title>
+</head>
+<body>
+    <hl>{{ hero.hname }}</hl>
+    <hr>
+    <ul>
+        {% for skin in hero.skininfo_set.all %}
+            <li>{{ skin.sname }} === {{ skin.scontent }}</li>
+        {% endfor %}
+    </ul>
+</body>
+</html>

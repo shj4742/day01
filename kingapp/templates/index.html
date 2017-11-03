@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+</head>
+<body>
+    <h1>英雄列表</h1>
+    <hr>
+    <ul>
+        {% for hero in herolist %}
+            <li>
+                <a href="{{ hero.id }}">{{ hero.hname }}</a>
+            </li>
+        {% endfor %}
+
+    </ul>
+</body>
+</html>
